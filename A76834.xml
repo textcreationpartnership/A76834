@@ -1,0 +1,523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speculum Culmerianum wherein all persecuting, and malitious priests may behold the blindnesse of their zeale, the shame of their hypocricy, and the just reward of their unsatisfied malice. Being an answer to a scandalous book called A parish looking-glasse for persecutors of ministers, pretended to be writ by Richard Culmer the younger, in defence of his father Richard Culmer, Minister of Minster in the County of Kent ... / By Stephen Blaxland.</title>
+            <author>Blaxland, Stephen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76834</idno>
+            <idno type="STC">Wing B3176</idno>
+            <idno type="STC">ESTC R170684</idno>
+            <idno type="EEBO-CITATION">45504324</idno>
+            <idno type="OCLC">ocm 45504324</idno>
+            <idno type="VID">171627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2581:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speculum Culmerianum wherein all persecuting, and malitious priests may behold the blindnesse of their zeale, the shame of their hypocricy, and the just reward of their unsatisfied malice. Being an answer to a scandalous book called A parish looking-glasse for persecutors of ministers, pretended to be writ by Richard Culmer the younger, in defence of his father Richard Culmer, Minister of Minster in the County of Kent ... / By Stephen Blaxland.</title>
+                  <author>Blaxland, Stephen.</author>
+               </titleStmt>
+               <extent>[8], 37 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Anno 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: badly stained.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culmer, Richard, 17th cent. --  Parish looking-glasse for persecutors of ministers.</term>
+               <term>Culmer, Richard, d. 1662.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171627:1" rendition="simple:additions"/>
+            <p>SPECULUM CULMERIANUM, WHERE<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>N All perſecuting, and malitious PRIESTS May behold the blindneſſe of their Zeale, the ſhame of their Hypocricy, and the juſt re<g ref="char:EOLhyphen"/>ward of their unſatisfied malice.</p>
+            <p>BEING An Anſwer to a ſcandalous book, called a Pariſh Looking-glaſſe for perſecutors of Miniſters, pretended to be writ by <hi>Richard Culmer</hi> the younger, in defence of his father <hi>Richard Culmer,</hi> Miniſter of <hi>Minſter</hi> in the County of <hi>Kent,</hi> in the Iſle of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hanet,</hi> near <hi>Canterburie.</hi>
+            </p>
+            <p>By <hi>Stephen Blaxland.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 57. v. 21.</hi>
+               </bibl>
+               <p>The wicked are like the troubled Sea when it can<g ref="char:EOLhyphen"/>not reſt, whoſe waters caſt up mire, and dirt.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iſa. 10 12.13.</hi>
+               </bibl>
+               <p>Wherefore thus ſaith the Lord the holy one of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> becauſe ye deſpiſe this word, and truſt in oppreſſion, and perverſneſſe and ſtay thereon.</p>
+               <p>Therefore this iniquity ſhall be to you as a breach ready to fall, ſwelling out of a high wall, whoſe breaking cometh ſuddenly in an inſtant.</p>
+            </q>
+            <p>Anno 1657.</p>
+            <pb facs="tcp:171627:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="author_to_the_gentlemen_of_Kent">
+            <pb facs="tcp:171627:3"/>
+            <head>To all the well affected Gentlemen in KENT.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>HAving been instigated, and indeed im<g ref="char:EOLhyphen"/>portuned by Mr. <hi>Culmers</hi> unſufferable abuſes, and most ſcandalous falſeties, I have undertaken this ſhort anſwer, which I hope will not be found larded with untruths, but to reliſh of aproved verity. I proteſt I write no thing out of malice, but ſhall refer my ſelf un<g ref="char:EOLhyphen"/>to your candid judgements, and reſt</p>
+            <closer>
+               <signed>A ſervant to you all, and a lover of my Coun<g ref="char:EOLhyphen"/>trey. <hi>Stephen Blaxlan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:171627:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>BEfore I make any progreſſe into my intended diſcourſe I will declare unto the world the reaſon of my underta<g ref="char:EOLhyphen"/>kings, which in ſhort, is as followes.</p>
+            <p>Firſt in reſpect of the wrong, and unſuf<g ref="char:EOLhyphen"/>ferable injury done to my deceaſed father by the falſe &amp; approbrious aſpertions of Mr. <hi>Ri<g ref="char:EOLhyphen"/>chard Culmer</hi> the elder, Miniſter of <hi>Min<g ref="char:EOLhyphen"/>ſter</hi> in the Iſle of <hi>Thanet,</hi> the known Author of that impertinent and ſhamefull book, enti<g ref="char:EOLhyphen"/>tuled, <hi>A Pariſh Looking glaſſe,</hi> pretended to be writ by his ſon, in defence of his (as he pretends) perſecuted Father, but time ſhall ſhew Mr. <hi>Culmers</hi> falſity to the world, whilſt truth (the virginity of the ſoul) ſhall in de<g ref="char:EOLhyphen"/>ſpight of malice, like the rod of <hi>Moſes,</hi> de<g ref="char:EOLhyphen"/>vour the rods of the <hi>Egyptians.</hi>
+            </p>
+            <p>Secondly, In reſpect of my own reputation, which Mr. <hi>Culmer</hi> hath moſt injuriouſly en<g ref="char:EOLhyphen"/>deavoured to demoliſh by ſeveral untruthes, which I ſhall declare to the world without the
+<pb facs="tcp:171627:4"/>least prejudice to truth, and I queſtion not, but to ſhake off his ſerpentine invectives, as St. <hi>Paul</hi> did his viper, without the leaſt de<g ref="char:EOLhyphen"/>triment to my own conſcience.</p>
+            <p>And now I ſhall deſire the ingenious Rea<g ref="char:EOLhyphen"/>der, after he has ſeriouſly perpended and weighed each perticular in the ballance of rea<g ref="char:EOLhyphen"/>ſon to be an equal judge, for I must confeſſe I have undertaken to encounter a <hi>Goliah,</hi> a man armed with litterature (or at leaſt ought to be) whoſe proud inſults, can neither terrifie, nor conquer a true Iſraelite; <hi>The ſling of Juſtice is better than the ſword of envy.</hi>
+            </p>
+            <p>Thus armed with reſolution, I will enter the liſts, notwithſtanding I ſufficiently know, that to ſtrive with my ſuperiour, is furious, with my equal, doubtfull, with my inferiour, ſordid and baſe, with any, full of unquietneſſe; for indeed, as one very well ſayes, It is a ſhame to reſist, where it is no honour to overcome: It was the ſaying of a wiſe man, that a man knows himſelf beſt by his enemies, which I have found to be an approved truth, for I have benefitted more by the ſerious conſidera<g ref="char:EOLhyphen"/>tion of <hi>Mr. Culmers</hi> malice, than ever I did
+<pb facs="tcp:171627:4"/>by his doctrine; I will onely ſay of him, as it was ſaid of <hi>Nero Caeſar,</hi> he was <hi>Maximus tyrannorum but minimus Doctorum, &amp; invert</hi> that which was ſaid of <hi>Julius Caeſar,</hi> he believed as a <hi>Pagan,</hi> but workt as a Chri<g ref="char:EOLhyphen"/>ſtian, ſo <hi>Mr. Culmer</hi> may be ſaid to believe as a Chriſtian, but to act as a Pagan, I am ſorry that his own merits inforce me to theſe expreſſions.</p>
+            <p>It was a custome amongſt the Heathens, to chuſe their prieſts out of their Philoſophers, and their Kings out of their Prieſts; had <hi>Ma<g ref="char:EOLhyphen"/>ſter Culmer</hi> lived in thoſe dayes, he muſt have approved himſelf a better proficient in learning, than he did in making thoſe verſes of <hi>Queen Anne,</hi> which he ſo much boaſts of in his Book of nick-names, where he makes an E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dipthong ſhort, <hi>Culmerianâ authori<g ref="char:EOLhyphen"/>tate,</hi> and not <hi>poeticâ licentiâ:</hi> neither would I have my Reader miſtake me, and think that I am an enemy to Miniſtery, for I protest, I honour them with as much fidelity, as the <hi>Iſraelites</hi> did <hi>Aaron</hi> the firſt of Prieſts, and love them with as much integrity as <hi>Jona<g ref="char:EOLhyphen"/>than</hi> did <hi>David</hi> the beſt of Kings, Prophets,
+<pb facs="tcp:171627:5"/>and Prieſts; but when a prieſt ſhall degenerate into a Rabſhecai, a ſcoffer, a railer, and in<g ref="char:EOLhyphen"/>ſtead of pittying thoſe that he pretends to be criminalls, nick name, and revile them, then we may, like Lot, turn our backs upon So<g ref="char:EOLhyphen"/>dome; I never read that <hi>St. Paul, St. Pe<g ref="char:EOLhyphen"/>ter,</hi> or the rest of the Apoſtles ever did ſo, but conſtantly exhorted one another, to meek<g ref="char:EOLhyphen"/>neſſe, patience, and charity; which three vir<g ref="char:EOLhyphen"/>tues cover the heart of man (as <hi>Solomon</hi> did the Temple) with gold: but when theſe three graces are deficient, it is an undoubted truth that the Divine cannot be Orthodoxal; More<g ref="char:EOLhyphen"/>over, all things in a Divine ought to preach; his habit, his dyet, nay, his whole life; he must not, like <hi>Iſhmael,</hi> have his hands againſt every man, and every mans hands against him, but like <hi>Joſeph</hi> forgive his brethren, and inſtead of puniſhing them for their cruel<g ref="char:EOLhyphen"/>ty towards him, ſend them home to their fa<g ref="char:EOLhyphen"/>ther laden with proviſion for their neceſsities; again, a Divines words ought to be Maxims, and his actions examples, and his examples rules, and his perfections ought to conſiſt in the acknowledging his imperfections; for wiſ<g ref="char:EOLhyphen"/>dom
+<pb facs="tcp:171627:5"/>lives at the ſigne of humility: but as for Mr. <hi>Culmer,</hi> he may truely ſay to all theſe fore-mentioned virtues, as S. <hi>Peter</hi> ſaid when he denied our Saviour; <hi>I know not the man, neither underſtand I what thou ſayeſt:</hi> notwithstanding, I do really believe Mr. <hi>Cul<g ref="char:EOLhyphen"/>mer</hi> is no enemy to learning, neither do I be<g ref="char:EOLhyphen"/>lieve that learning is much a friend to him, but it may be replied, what then, the Apoſtles were ilitterate, 'T is truth, but during the time of their ignorance they converted none, but when they had the gift of tongues, and were acquainted with learning, they converted thouſands; It is ſaid by a good Authour that <hi>Joſias</hi> was but eight years old when he walk'd religiouſly before God, therefore Religion con<g ref="char:EOLhyphen"/>ſiſts not in learning, but in grace, is it not poſsible for him to whom nothing is impoſ<g ref="char:EOLhyphen"/>ſible to make <hi>Joſia's</hi> a Scholler at eight years old: moreover it is ſaid that the learned al<g ref="char:EOLhyphen"/>wayes put the cauſe before the effect, know<g ref="char:EOLhyphen"/>ledge was the cauſe of <hi>Joſia's</hi> his Religion, and his Religion was the effect of that cauſe, for he could not be zelous for God without being taught to know there was a God, for
+<pb facs="tcp:171627:6"/>zeal (as one ſaith) without learning is ſtark blinde, and learning without diſcretion is pur-blind, like <hi>Sampſon</hi> without his eyes; apt to do little good, but able to do a great deal of miſchief: but I ſtay too long in the Porch, I will therefore conclude with the Poet,
+<q>
+                  <l>— Si quid noviſti rectius iſtis</l>
+                  <l>Candidus imperti, ſi non, his utere mecum.</l>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171627:6"/>
+            <head>SPECULUM CULMERIANUM</head>
+            <q>Qui male fecit, ſemper aliquid praeten<g ref="char:EOLhyphen"/>dit.</q>
+            <p>FIrſt I muſt begin with your large com<g ref="char:EOLhyphen"/>mendations; for in your Epiſtle Dedi<g ref="char:EOLhyphen"/>catory to the Right honourable, (and I may truely ſay) moſt worthy Collonel <hi>Gibbon,</hi> Governour of the Iſle of <hi>Ierfy,</hi> you be<g ref="char:EOLhyphen"/>gin very pathetically thus:</p>
+            <div type="citation">
+               <q>
+                  <p>Right Honourable</p>
+                  <bibl>Culmer.</bibl>
+                  <p>YOur Native Countrey (the County of <hi>Kent</hi>) hath many obligations of much due reſpects unto you for your valiant actions formerly, and at preſent for the welfare, and ſafety thereof, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+               <pb n="2" facs="tcp:171627:7"/>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This is an undeniable truth, and I muſt confeſſe, a perſon of his Honour deſerves (I ſpeak it without a hyperboly to his worth) a larger and better encomium than I am able to expreſſe, yet I am ſorry that this Lamb ſhould live ſo near a Lion, this <hi>truth</hi> border upon an untruth, being not many lines aſun<g ref="char:EOLhyphen"/>der; which is,</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>Culmer.</bibl>
+                  <p>And your undeſerved favour, <hi>&amp;c.</hi> hath en<g ref="char:EOLhyphen"/>couraged, <hi>&amp;c.</hi> to crave your patronage of this Apology, which the Law of filial love and duty hath compelled me to write in defence of my aged Father, whoſe Miniſterial im<g ref="char:EOLhyphen"/>ployment will not give him leave to do it with his own Pen, I do unfeignedly profeſſe it is rather a grief then any delight to me that (upon this occaſion) I am neceſſetated to pu<g ref="char:EOLhyphen"/>bliſh that any ſuch Savages as are here diſ<g ref="char:EOLhyphen"/>cribed, ſhould be found in <hi>Kent,</hi> &amp;c.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Here we may finde a ſtrange Metamor<g ref="char:EOLhyphen"/>phoſis,
+<pb n="3" facs="tcp:171627:7"/>the Father transformed into the Son, and the Son into the Father, the Son muſt fur<g ref="char:EOLhyphen"/>ther the Fathers works, and the Father muſt cherriſh the Son in owning an untruth, and the more to excuſe the buſineſſe, and to be thought ſtudious you ſay that your Miniſte<g ref="char:EOLhyphen"/>rial imployments will not give you leave to do it with your own Pen, when I am very confident that you take not ſo much pains in your Miniſterial imployment, but that you may take time enough to write a great deal more, to as little purpoſe, as you have done this, which neither ſavours of learning, con<g ref="char:EOLhyphen"/>ſcience, nor modeſty as ſhall hereafter be ex<g ref="char:EOLhyphen"/>preſt: Suppoſe it be your Sons (as it is well known it is not) he has uſed you, as you do your Text, for at firſt he calls you Father, and afterwards never mentions you, but by the name of Mr. <hi>Culmer.</hi>
+                  </p>
+                  <p>As for your book, I look upon it as a very rediculous thing, wherein you ſeek more your own private intereſt by calumnia<g ref="char:EOLhyphen"/>ing of others, than the diſcharging of a good conſcience by gently admoniſhing them; I will paſſe over the firſt and ſecond pages, and onely look upon them as a preludium to your own praiſes, and vain oſtentations.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. <hi>3ly. 12ly.</hi>
+                  </bibl>
+                  <pb n="4" facs="tcp:171627:8"/>
+                  <p>But I ſhall onely inſtance in the perſecu<g ref="char:EOLhyphen"/>tors of Maſter <hi>Rich. Culmer,</hi> (heretofore of <hi>Magdalen Colledge</hi> in <hi>Cambridge</hi> Maſter of Arts) now Miniſter of <hi>Minster,</hi> in the Iſle of <hi>Thanet</hi> in the County of <hi>Kent,</hi> whoſe perſecu<g ref="char:EOLhyphen"/>tors are now very few living in that Pariſh, but mighty, and numerous elſewhere, eſpe<g ref="char:EOLhyphen"/>cially thoſe of the Popiſh, prelatical, and Ca<g ref="char:EOLhyphen"/>valier party that never ſaw him, becauſe of his activeneſſe againſt their cauſe.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Firſt, for your Perſecutors, I know, none of them, neither can I experimental<g ref="char:EOLhyphen"/>ly ſay that ever I knew you perſecuted, but I believe when you name perſecutors, you mean proſecutors, for indeed I know ſome that proſecuted you for your unjuſt actions, but I know none that perſecute you (as you pretend) for your activeneſſe in the ſervice of the State, or that you were ever indemne<g ref="char:EOLhyphen"/>fied more then what the State has doubly; nay, trebly requited, therefore this, your per<g ref="char:EOLhyphen"/>ſecuting expreſſions, are onely to bring your former actions into remembrance, and ad<g ref="char:EOLhyphen"/>vance your own merits by a popular applauſe: St. <hi>Paul</hi> was perſecuted for the truth, but you
+<pb n="5" facs="tcp:171627:8"/>are onely proſecuted for the contrary, he fought with beaſts at <hi>Epheſus,</hi> but you make your Pariſh <hi>Epheſus,</hi> and your Pariſhioners beaſts: You likewiſe ſay that you have very few perſecutors now living in the Pariſh of <hi>Minster,</hi> truely, I am of your opinion, and yet I believe you have as many there now as ever, becauſe in your book of Nick-names, you uſe ſo many inveterate and violent expreſſions againſt them; ſo that how can you expect a Parochial affection, when you come ſo much ſhort of your Miniſterial profeſſion; can the ſheep feed, when they are frightned by the ſhepheard.</p>
+                  <p>As for your being of <hi>Magdelin</hi> Colledge in <hi>Cambridge,</hi> I cannot deny it, but as for your being Mr. of Arts, I muſt be ſilent, I confeſſe, I never heard, nor ſaw your Latin Sermon, which you preached at St. <hi>Maries,</hi> which I wonder you had not boaſted of (if there were any ſuch thing) as well as of a few School<g ref="char:EOLhyphen"/>boyes verſes, <hi>page</hi> the 7 <hi rend="sup">h</hi>. at the latter end; And at the latter end of the 6th. page you ſay, they publiſhed Libells that you were famous in the Univerſitie for foot-ball playing, but never thought to be cut out for a Mercurie; Indeed that is an undeniable truth, for <hi>ex omni ligno non fit Mercurius.</hi>
+                  </p>
+                  <pb n="6" facs="tcp:171627:9"/>
+                  <p>But in the latter end of the ſame page, you ſay, you gave a ſpecimen to the contrarie in many publick Arts, naming onely that in Print, in the book called <hi>[Lachrymae Canter<g ref="char:EOLhyphen"/>brigiencis,]</hi> which litter of verſes are as fol<g ref="char:EOLhyphen"/>lowes:
+<q>
+                        <lg>
+                           <head>Upon Queen Ann.</head>
+                           <l>Cynthia lucifluo conjungitur aurea Phaebo.</l>
+                           <l>Phoebaeo in terris conjux fuit <hi>Anna Jacobo:</hi>
+                           </l>
+                           <l>Ecclepſin patitnr Phaebe: ſic deficit <hi>Anna:</hi>
+                           </l>
+                           <l>Phaebus in orbe micat: ſic ſplendit in urbe <hi>Ja<g ref="char:EOLhyphen"/>cobus</hi>
+                           </l>
+                           <l>Luna praeeſt undis, lachrymas tulit <hi>Anna Brit<g ref="char:EOLhyphen"/>tannis;</hi>
+                           </l>
+                           <l>Sol radiis undas ſiccat: ſplendore <hi>Jacobus.</hi>
+                           </l>
+                        </lg>
+                        <bibl>
+                           <hi>Rich. Culmer Col. Mag.</hi>
+                        </bibl>
+                     </q>
+                  </p>
+                  <p>Now let the Reader judge wherein con<g ref="char:EOLhyphen"/>ſiſts the excellencie of thoſe verſes, except it be in, <hi>luna praeeſt undis,</hi> wherein an <hi>ae.</hi> is made ſhort <hi>Culmeriana authoritate;</hi> If this be all the learning you can boaſt of, then every School<g ref="char:EOLhyphen"/>boy may pretend to be a Divine, but it may be you did it purpoſely to be known to be a <hi>poor Scholler.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="citations_and_answers">
+               <p>Now we come to your teſtimonials, page
+<pb n="7" facs="tcp:171627:9"/>the 8<hi rend="sup">th</hi>. where being afraid you ſhould want matter for your vain-glorie you requeſt a Certificate from the Major, Alder-men, and the inhabitants of <hi>Canterbury,</hi> which may be ſeen in the two laſt lines of the 7<hi rend="sup">th</hi>. page.</p>
+               <q>
+                  <p>Civit. Cant. <hi>ff.</hi>
+                  </p>
+                  <p>We the Major, Alder-men, and other in<g ref="char:EOLhyphen"/>habitants thereof, at the requeſt of <hi>Rich. Cul<g ref="char:EOLhyphen"/>mer,</hi> Clark, do teſtifie that he is a man of an exemplarie life, <hi>&amp;c.</hi> and an able Teacher of Gods word, <hi>&amp;c.</hi> Auguſt the 10th. <hi>Ann. Dom.</hi> 1642.</p>
+               </q>
+               <p>This Certificate is ſigned by above three<g ref="char:EOLhyphen"/>ſcore perſons, but what is this material to your preſent affaires, it being above 12. years ſince you begg'd it, ſince which time we have had thoſe happy revolutions, that have quite altered the face of things, from what they were then, neither do I believe that you are now of the ſame opinion you were of then, yet theſe preſent teſtimonials muſt be pro<g ref="char:EOLhyphen"/>duced, more out of vain-glorie to ſhow what you have been, then out of policy to ſhow what you are, as if it were impoſſible for you to change your principles, when you know,
+<pb n="8" facs="tcp:171627:10"/>
+                  <hi>Tempora mutantur, &amp; nos mutamur in illis,</hi> and this you doe becauſe the ill-affected ſhould not point at you, but many of thoſe that were worſt affected in thoſe times, are beſt affected in theſe, therefore thoſe teſtimo<g ref="char:EOLhyphen"/>nials are not materia for your purpoſe.</p>
+               <p>As for the 10th. 11, 12, 13, 14. &amp; 15. pages, they are indeed either very ſcurrulous, or large encomiums of your own worth, therefore I will paſſe them by, and come to the ſixteenth page, where we may finde in the two and twentieth of that page, that you give a Nick-name to one, and call him the five hundred pound-man.</p>
+               <p>The party ſo Nick-named was my Father, therefore I muſt crave leave a little to en<g ref="char:EOLhyphen"/>large my ſelf.</p>
+               <p>It was very well known to all in that Iſland, that my Father was a man of a quiet and peaceable ſpirit, one, that would not (like you, our Miniſter) act the part of <hi>Tom</hi> a <hi>Bed<g ref="char:EOLhyphen"/>lam,</hi> as ſhall be ſufficiently proved, and if the Pariſh ſince that time hath been diſtempered, it was by example of the Prieſt, therefore the leſſe to be condemned by you; Neither was my Father ever thought to have a ſpuri<g ref="char:EOLhyphen"/>ous off-ſpring, inſomuch that he was inforc'd to exhauſt his lively-hood from the Tap, I
+<pb n="9" facs="tcp:171627:10"/>need not further explain my ſelf, for I know you very well underſtand me.</p>
+               <p>It is an ancient addage, <hi>de mortuis nil niſi lonum,</hi> and <hi>ignobilia ſunt odia quae ultra mor<g ref="char:EOLhyphen"/>tem procedunt,</hi> which ſaying it may well be perceived, you obſerve not, for indeed you en<g ref="char:EOLhyphen"/>deavour (which is a thing very unſutable to your profeſſion) to ſcratch the dead out of their Graves, with the ſharp Nailes of ma<g ref="char:EOLhyphen"/>lice.</p>
+               <p>As for my Father, (I will ſpeak it in de<g ref="char:EOLhyphen"/>fiance of your envy) he was well known to live quietly and lovingly amongſt his Neigh<g ref="char:EOLhyphen"/>bours, which is more than you can boaſt of. And he was likewiſe carefull in the educati<g ref="char:EOLhyphen"/>on of his Children, not permitting them to royot, as you do your Children, for it is ve<g ref="char:EOLhyphen"/>ry well known that your eldeſt Son being drunk at <hi>Sandwich,</hi> oppoſed the Maior, for which he was ſent to priſon, and hath brag<g ref="char:EOLhyphen"/>ged of his beaſtly behaviour towards woe<g ref="char:EOLhyphen"/>men: And as for your youngeſt Son, it was very well known how often he hath at<g ref="char:EOLhyphen"/>tempted the abuſe of ſeveral woemen.</p>
+               <p>By theſe things we may obſerve the good inſtructions, and carefull education you have given to your Children; but it may be, you ſuppoſe, that they may take the liberty
+<pb n="10" facs="tcp:171627:11"/>by the Laws of Nature <hi>Patrizare:</hi> Thus you that pronounce the juſt judgements of God upon others that ſuffer by any miſchance, or come to any untimely end, will not look at home and there behold his judgements ſuffi<g ref="char:EOLhyphen"/>ciently exemplified upon your ſelf, in your Children.</p>
+            </div>
+            <div type="citation">
+               <p>Again, in the firſt line of the ſeventeenth page, you ſay that <hi>I. W.</hi> For crying all, all, was within a ſhort time after cruſhed to death with a Waggon.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>I will not denie but that it may be truth, and that Gods judgements are juſt, and that he is known by them, but ſo known by them, that he would not have us Tryumph over o<g ref="char:EOLhyphen"/>ther mens misfortunes; but rather when we ſee, or hear of them, be truely thankfull to him that the like judgements have not fallen upon us, who have equally deſerved the like, though it be his goodneſſe to retard them.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <p>In the fifth following line of the ſame page, you ſay, That notwithſtandanding the fore<g ref="char:EOLhyphen"/>mentioned
+<pb n="11" facs="tcp:171627:11"/>judgements of God, that ſome continued to revile you.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If you admire at this, what reaſon had <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> to admire at <hi>Pharaoh,</hi> that notwithſtand<g ref="char:EOLhyphen"/>ing all the continuation, and experience of ſo many plagues did perſiſt in his obſtinacie a<g ref="char:EOLhyphen"/>gainſt the Children of <hi>Iſrael;</hi> God permits no puniſhment to be inflicted without juſt de<g ref="char:EOLhyphen"/>ſert, but I perceive that (in ſuch matters as theſe) you ſee but with one eye, for you one<g ref="char:EOLhyphen"/>ly look upon the pretended malice of the A<g ref="char:EOLhyphen"/>gent, and not upon the juſt deſerts of the pa<g ref="char:EOLhyphen"/>tient, St. <hi>Paul,</hi> as he was the greateſt of ſuf<g ref="char:EOLhyphen"/>ferers, ſo he was by his own confeſſion the greateſt of ſinners, he made it no wonder that men ſhould revile him, becauſe he was conſcious to himſelf of his own ſins; but you, without the leaſt reflection upon your ſelf, wonder that people ſhould revile you, re<g ref="char:EOLhyphen"/>member our bleſſed Saviour, remember <hi>David</hi> in all his troubles, remember <hi>Job</hi> upon the dunghill, and then you will finde that theſe things are the Ornaments of a Chriſtian; but you, inſtead of acknowledging your owne
+<pb n="12" facs="tcp:171627:12"/>infirmities, procure others to flatter you with the vain, and untrue praiſes of your own a<g ref="char:EOLhyphen"/>bilities; Now let the Reader judge whether, or no your actions be any thing conſonant to the Acts of the Apoſtles.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>Culmer.</bibl>
+                  <p>
+                     <bibl>Page the eighteenth line, the twelfth:</bibl> But this is an ordinarie perſecution of Miniſters, as now, when lately in that Iſle a Drunken, ſcandalous, railing Prieſt was ejected, there ſcarce came one in ten, to hear the Godly Mi<g ref="char:EOLhyphen"/>niſter.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Here I finde that quite contrarie to the rules of Divinitie, you abſolutely juſtifie one partie, and condemne the other, but you know the heart of man is deceitfull above meaſure, who can know it? All that I can ſay is this, 'tis pitie he was ſo; however, his Doctrine may be good, though his life be bad, where we cannot live by example, we muſt be content to live by praecept, for a good diſ<g ref="char:EOLhyphen"/>poſition, makes a good expoſition; And if
+<pb n="13" facs="tcp:171627:12"/>God ſpeaks to us as he did to <hi>Balaam,</hi> by the mouth of an Aſſe, we muſt hear him, and if he will have us ſaved by one that ſhall be damned, we muſt hear what he ſayes, not look what he does.</p>
+                  <p>In the twentieth page, about the four and thirtieth line, we may judge your reſoluti<g ref="char:EOLhyphen"/>ons by your Heatheniſh expreſſions, which are
+<q>Flectere ſi nequeo ſuperos, Acharonta mo<g ref="char:EOLhyphen"/>vebo.</q>
+                  </p>
+                  <p>With that it may be the better underſtood by all, I will render the effect of it in <hi>Eng<g ref="char:EOLhyphen"/>liſh.</hi>
+                     <q>
+                        <l>But if the Gods deny to pleaſe me well</l>
+                        <l>In my deſignes, I'le work my ends by Hell.</l>
+                     </q>
+                  </p>
+                  <p>Now Reader judge, if this expreſſion be any way fit to be uſed by a Divine, and whe<g ref="char:EOLhyphen"/>ther, or no his Pariſhioners ought to credit, or follow his Doctrine that is ſo Diabolical in his reſolutions.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> page 33. l. 38.</bibl>
+                  <pb n="14" facs="tcp:171627:13"/>
+                  <p>And to oppreſſe Mr. <hi>Culmer,</hi> the more they minded not the bounds of the Pa<g ref="char:EOLhyphen"/>riſh.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Here you endeavour to tax the Pariſh with injuſtice, when you your ſelf know the bounds of the Pariſh as well as any, for the bounds are ſo well known, that it is altogether needleſſe to put the Pariſh to unneceſſary charges, neither is it a thing uſual there abouts; but this truth is very much like the reſt.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 24. l. 1.</bibl>
+                  <p>And beſides all theſe apprehenſions, one thing more in point of livelyhood, I thought fit to mention. That Mr. <hi>Cul<g ref="char:EOLhyphen"/>mer</hi> having laid out about five pounds in demoliſhing the Monuments of Idola<g ref="char:EOLhyphen"/>try at <hi>Minſter</hi> by ſpecial order, accord<g ref="char:EOLhyphen"/>ing
+<pb n="15" facs="tcp:171627:13"/>to the Act of Parliament, for their de<g ref="char:EOLhyphen"/>moliſhing, cannot get his money ſo laid out: At his firſt coming he often deſired the Church-wardens to do that work ac<g ref="char:EOLhyphen"/>cording to the Act, but the five hundred pound-man being Churchwarden refuſed to Act.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>All this that you have declared is an abſolute untruth, for my Father, whom you (not like a Divine) wiſely Nick<g ref="char:EOLhyphen"/>name the five hundred pound-man, did go with you, and the reſt of the chiefeſt of the Pariſh did go upon a <hi>May day</hi> in the morning, and took down that, which you, in your grave wiſdom, thought any way Superſtitious, or Idolatrous; Inſo<g ref="char:EOLhyphen"/>much that you, your ſelf at the ſame in<g ref="char:EOLhyphen"/>ſtant gave the glory to God in bringing to paſſe ſo great a Reformation, in a day, which was ſet apart for a deformation: But after all this you being moved in
+<pb n="16" facs="tcp:171627:14"/>ſpirit, got the Key of the Church, and lock't your ſelf in (becauſe none ſhould participate in ſo glorious a work) and took an occaſion to quarrel with the Kings of <hi>Iſrael,</hi> which were painted in the Chan<g ref="char:EOLhyphen"/>cel windows, which, (when the Chief of the Pariſh were with you in the Church) you thought were not Superſtitious, (as indeed they were not) but it was you, that were envious, becauſe you very well knew that my Father (the five hundred pound-man, as your gravity is pleaſed to call him) was to maintain the Chappel, now pray tell me where was the glory to God? I am ſure he cannot be glorified with envy, hatred, and malice, for it may eaſily be diſcerned, that envy was your zeal, and that you minded more the com<g ref="char:EOLhyphen"/>pletion of your own wicked <hi>reſolutions, than the glorie of God.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>Culmer, <hi>page the</hi> 25. l. 5.</bibl>
+                  <pb n="17" facs="tcp:171627:14"/>
+                  <p>And the next Sabbath day Mr. <hi>Culmer</hi> got into the Church at the broken win<g ref="char:EOLhyphen"/>dowes, which were left unrepaired by the five hundred pound-man above half a year, in hope that Maſter <hi>Culmer</hi> ſhould pay for all the ruines, which came through the wilfull neglect of the five hundred pounds-man ſpeedy reparations thoſe windowes, which belonged to him to repaire as Parſon, according to the ſaid Act of Parliament; there was not at firſt above ten foot broken there.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>What reaſon was there that my Father ſhould repair thoſe demoliſhments which you made contrary to Act of Parliament, when as you your ſelf did not think them Superſtitious, therefore reaſon and equi<g ref="char:EOLhyphen"/>ty will Demonſtrate that what you ruine without order, you ought to repaire at at your own proper coſt and charges.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 25. l. 25.</bibl>
+                  <pb n="18" facs="tcp:171627:15"/>
+                  <p>Yet I heard him ſay that he could have eaſily killed them every one with his Steeletto, but he often ſaid, he bleſſed God, who kept his hands from ſhedding their bloud, and that he admired at the goodneſſe of God to him, that gave him ſuch a ſpirit of meekneſſe upon ſuch an occaſion, contrary to his natural and uſual diſpoſition in his own defence.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>I do much wonder that a man of your Coat ſhould offer ſo much to diſguiſe the truth with the imaculations of falſhood; for it can be proved as it is Articled a<g ref="char:EOLhyphen"/>gainſt you, that you have ſaid, That you would ſtand up to your own knees in bloud, and up to your Horſes knees in bloud, but you would have your Tithes, and up to the eares in bloud, when you have been perſwaded to be reaſonable. And that it was the greateſt ſin that you had to anſwer for that you had not ſued more for your Tithes: And that you were
+<pb n="19" facs="tcp:171627:15"/>ſorry that you had not perſecuted thoſe that pulled you out of your Pulpit, even to their very Eſtates; &amp; thought it was ju<g ref="char:EOLhyphen"/>ſtifiable if you had murthered them all in the place, and ſaid that you had that about you that would eaſily have done it, mean<g ref="char:EOLhyphen"/>ing a Dagger, and other things.</p>
+                  <p>Here you ſhow your zeal, your humili<g ref="char:EOLhyphen"/>ty, your meekneſſe, your love, and your charity: God bleſſe every flock from ſuch a ſhepheard.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer</hi> pag. 27. l. 29.</bibl>
+                  <p>Afterwards two Juſtices did ſit upon the Ryot, and the Riotors were bound over to the Seſſions, and there indicted and found guilty, and fined each of them fourty ſhillings, which they received a<g ref="char:EOLhyphen"/>gain from their good Maſters &amp; Dames.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>That the Rioters were indicted and found guilty, and fined fourty ſhillings a
+<pb n="20" facs="tcp:171627:16"/>man, is truth: but that (as you moſt falſ<g ref="char:EOLhyphen"/>ly ſuggeſt) they received their monies a<g ref="char:EOLhyphen"/>gain from their good Maſters &amp; Dames, as you call them, is altogether falſe: but
+<q>Quo ſemel eſt imbuta recens ſervabit o<g ref="char:EOLhyphen"/>dorem: Teſtadiu:</q>
+                  </p>
+                  <p>What's bred in the bone will never off of the fleſh.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 29. l. 4.</bibl>
+                  <p>And eſpecially, two Juſtices of Peace, and Deputy Lieutenants came with their Families conſtantly about two years to hear Mr. <hi>Culmer</hi> Preach.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Here you may take notice of your own vain-glory, thinking to advance your abil<g ref="char:EOLhyphen"/>lities in preaching, by divulging, what
+<pb n="21" facs="tcp:171627:16"/>Eminent men came to hear you, when as, all, was but two. (Mr. <hi>Paromour,</hi> and Mr. <hi>Foach.</hi> (Though you ſeem to divide them into many: Remember, who ſayes, I will ſcatter the proud in the imagination of his heart: As for thoſe beaſtly lines which follow in the ſame page I will o<g ref="char:EOLhyphen"/>mit, being fitting to be expreſt onely by ſuch a mouth as your own.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 29. l. 12.</bibl>
+                  <p>And this wife of the five hundred pound-man, told her husband that ſhe edified moſt by Maſter <hi>Culmers</hi> Miniſtry, and deſired him to carry her about to no other Pariſhes, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>I do much wonder to what intent you ſhould ſpeak this, except it be (as indeed it is your conſtant practiſe) to prove your
+<pb n="22" facs="tcp:171627:17"/>ſelf vain-glorious; but they that build their deſignes (as you do) upon the Maximes of falſhood muſt expect, as you may, the juſt rewards, of their merits, for as for my Mothers expreſſions to my Fa<g ref="char:EOLhyphen"/>ther, which you ſay, were, as is bf ore mentioned, I am confident and very cer<g ref="char:EOLhyphen"/>tain is altogether untrue.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> page the 33. l. 29.</bibl>
+                  <p>And Maſter <hi>Culmer</hi> indicted the Scout for barring a common ſheep-way, and had a verdict againſt him, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>'Tis truth you did (to your credit be it ſpoken) indict the Gentle-man, which you out of a wonderfull deal of diſcreti<g ref="char:EOLhyphen"/>on) Nick-name the Scout, and had a verdict (ſuch an one as it was) againſt him, but notwithſtanding, your gravity,
+<pb n="23" facs="tcp:171627:17"/>dare not ride that way without his per<g ref="char:EOLhyphen"/>miſſion, except it be on a Sunday morn<g ref="char:EOLhyphen"/>ing early, and when you came home from <hi>London</hi> from proſecuting your Neigh<g ref="char:EOLhyphen"/>bours. As for procuring five men to be his aſſiſtants in the Exchequer, as you alleadge in the ſame page, is altogether falſe, for he neither perſwaded, nor pro<g ref="char:EOLhyphen"/>cured them: As for the Articles you there ſpeak of, there was none exhibited againſt you, but what may be ſufficiently proved.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 34. l. 15.</bibl>
+                  <p>This man was lately brought in to be Clark of the Pariſh, for his good ſervice done againſt Maſter <hi>Culmer</hi> many wayes, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>It is falſe that this man (who you are wiſely pleaſed to Nick-name the Trum<g ref="char:EOLhyphen"/>petter)
+<pb n="24" facs="tcp:171627:18"/>was put in by the faction; But in this you diſcover your exquiſite malice, in endeavouring to make all the Pariſh aſ<g ref="char:EOLhyphen"/>ſiſtants and maintainers of this mans acti<g ref="char:EOLhyphen"/>ons, which your own conſcience if you dare examine it,) informs you to be un<g ref="char:EOLhyphen"/>true; For it is very well known that the Pariſh abounds with many inhabitants now (the more their miſery in reſpect of ſo troubleſome a Miniſter) that were not then, nor had any cognizance of the dif<g ref="char:EOLhyphen"/>ference between you and your Pariſhio<g ref="char:EOLhyphen"/>ners; For my own part, I was no inhabi<g ref="char:EOLhyphen"/>tant at the ſame time when you, and the Ryotors fell out, but the greateſt cauſe that the Pariſhioners had to put him in Clark, was, charity, (which is, indeed a ſtranger to you) in reſpect he was aged, and lame, and not in a capacity of relie<g ref="char:EOLhyphen"/>ving himſelf, and not be a charge, and trouble to the Pariſh.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 34. l. 40.</bibl>
+                  <pb n="25" facs="tcp:171627:18"/>
+                  <p>Who is a prophane ſcoffer at the Com<g ref="char:EOLhyphen"/>municants, calling them Maſter <hi>Culmers</hi> Diſciples.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>In reſpect that I know you mean me, I ſhall in ſhort anſwer for my ſelf, and let the World know what an undeſerving ſcandal you have caſt upon me; I thank God I have been, and am (though not by you) better principled in my Religion thn to be a Prophane ſo offer, as you term me, at holy Ordinances, neither did I, as you falſly ſuggeſt in diriſion, call them your Diſciples, for indeed I rather will pitie, than laugh at them knowing what a bad, and Hypocritical Maſter they have; As for the Chancel windowes you make mention of, I confeſſe, I did not repaire them till I was abſolutely informed whe<g ref="char:EOLhyphen"/>ther I had right to a Pew, which I built in the Chancel; which your Son (learning humility of his Father) broke down, ſay<g ref="char:EOLhyphen"/>ing, that he was placed there by order,
+<pb n="26" facs="tcp:171627:19"/>but when I knew that the right lay in me, you very well know I mended them ac<g ref="char:EOLhyphen"/>cording to the time limitted by the Ju<g ref="char:EOLhyphen"/>ſtice.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 35. l. 21.</bibl>
+                  <p>But they need not ſeek revenge further than their own avenging themſelves by their calumnies and falſe accuſations and railings againſt Mr. <hi>Culmer.</hi>
+                  </p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>I never knew any that ſought revenge a<g ref="char:EOLhyphen"/>gainſt you, except you account it revenge, for people to ſeek for right in their own cauſe; neither did any calumniate you, ex<g ref="char:EOLhyphen"/>cept you look upon truth, as a calumny, becauſe your civil, or (to ſpeak truth) your uncivil deportments and miſdemeanours deſerved to be taken notice of: and where<g ref="char:EOLhyphen"/>as you declare that we combine to put
+<pb n="27" facs="tcp:171627:19"/>you to charges in the Law, you are very much miſtaken, for you know that your Tithes were never denied you, for you ſued me, and the reſt before we denied payment, &amp; have put us to unjuſt charges, as the ſucceſſe of your ſute will mani<g ref="char:EOLhyphen"/>feſt.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>Culmer, <hi>page the</hi> 35. l. 25.</bibl>
+                  <p>But it ſeems nothing will ſatisfie their malice and rage, but his purſes bleeding to death by taking away his means of live<g ref="char:EOLhyphen"/>ly-hood and ſubſiſtance by his ejection, or removeal from his place and ſtation.</p>
+               </q>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If we endeavour your removeal, it is becauſe you endeavour our diſquiet, and inſtead of making peace amongſt us, you endeavour to bring us into confuſion; Neither is your Miniſterial imployment
+<pb n="28" facs="tcp:171627:20"/>all your lively-hood, for we very well know that you have (except you have ſpent it in Law) 120 pounds <hi>per annum,</hi> be<g ref="char:EOLhyphen"/>ſides your Land in <hi>Ireland,</hi> but becauſe you will make your condition to be the more commiſerated, you begger it by an untruth, and ſay, we go about to take a<g ref="char:EOLhyphen"/>way your lively-hood and ſubſiſtance, but I will not trouble my ſelf with any more of your impertinences, onely give a glance upon the 37<hi rend="sup">t</hi>h. page.</p>
+               </div>
+            </div>
+            <div type="citation">
+               <q>
+                  <bibl>
+                     <hi>Culmer,</hi> pag. 37. l. 2.</bibl>
+                  <p>It is a ſure ſigne commonly, that a Miniſter is good when all the Pariſh is againſt him; and commonly when a whole Pariſh loves a Miniſter, and ſpeaks well of him, he is ſtark naught.</p>
+               </q>
+               <pb n="29" facs="tcp:171627:20"/>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This indeed is a prime ſentence, and very worth the taking notice of, for here you ſay that you muſt upon neceſſity be very good, becauſe your Pariſhioners hate you, (as indeed the moſt part doe: (And other Reverend Divines (not farre from you) becauſe they are generally beloved of their Pariſhioners, are ſtark naught: I hope ſome of them will give you no thanks for this expreſſion, but indeed this is ſomething like your
+<q>Flectere ſi nequeo ſuperos, acharonta mo<g ref="char:EOLhyphen"/>vebo.</q>
+                  </p>
+                  <p>Moreover, by this you condemne all the Apoſtles, who found love and reſpect from Chriſtians whereſoever they came; but you, no where; Then again, you con<g ref="char:EOLhyphen"/>demne the Fathers, for I never read but that <hi>Auguſtin</hi> was very well beloved, and
+<pb n="30" facs="tcp:171627:21"/>his death very much lamented by his Pa<g ref="char:EOLhyphen"/>riſhioners at <hi>Hipo,</hi> where he was Mini<g ref="char:EOLhyphen"/>ſter; And <hi>Chriſistome</hi> at <hi>Conſtantinople,</hi> and <hi>Barnard, Jerome,</hi> and the reſt at their reſpective Pariſhes, how happy are you, (nay, and are like to continue ſo) that all your Pariſh hate you? neither dare we be<g ref="char:EOLhyphen"/>lieve that you will give us cauſe to do o<g ref="char:EOLhyphen"/>therwiſe; for if we ſhould, we ſhould make our ſelves guilty of your being ſtark naught, ſo that now we may ſay (and you may be proud of it if you pleaſe) Good Maſter <hi>Culmer.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <p>Thus having anſwered to all, or moſt part of your moſt material vilifications, give me leave to deſire you to look upon a place of Scripture, which I believe you either never ſaw, or very little minded; It is the third of <hi>Timothy,</hi> beginning at the ſecond verſe, where we ſhall be in<g ref="char:EOLhyphen"/>formed what a true Miniſter ought to be, and if you can approve your ſelf to be ſo, then let me, and others be condemned for our diſreſpects.</p>
+               <pb n="31" facs="tcp:171627:21"/>
+               <p>Verſe the ſecond, a Biſhop, or Mini<g ref="char:EOLhyphen"/>ſter muſt be blameleſſe, the Husband of one Wife: vigilant, ſober, of good beha<g ref="char:EOLhyphen"/>viour, given to Hoſpitality; apt to Teach.</p>
+               <p>Verſe the third, not given to Wine, no ſtriker, not greedy of filthy lucre, but patient, not a brawſer not coveteous; One that ruleth well his own houſe, having his Children in ſubjection with all gravity.</p>
+               <p>Verſe the ſixth, not a Novice, leſt be<g ref="char:EOLhyphen"/>ing lifted up with pride, he fall into the condemnation of the Devil.</p>
+               <p>Verſe the ſeventh, moreover, he muſt have a good report of them that are with<g ref="char:EOLhyphen"/>out, leaſt he fall into reproach, and the ſnare of the Devil.</p>
+               <p>Verſe eight, he muſt be grave, not dou<g ref="char:EOLhyphen"/>ble tongued.</p>
+               <p>Now Maſter <hi>Culmer,</hi> if you can prove your ſelf to be any of all theſe, except it be the Husband of one Wife, then go on, and hold the myſterie of faith in a pure
+<pb n="32" facs="tcp:171627:22"/>conſcience, and follow the preſcriptions of your Lord and Maſter, who ſays, Learn of me, for I am meek, and indeavour to keep the Unity of the ſpirit in the bond of peace, remember what he ſaid to St. <hi>Pe<g ref="char:EOLhyphen"/>ter, Peter, Peter,</hi> loveſt thou me, feed my Sheep, remember the charge that he gave to his Diſciples, Preach to all Nations, unity, peace and concord, doe you the ſame to your Pariſhioners, and if it be your Pariſhioners weakneſſe to offend, let it be your goodneſſe to forgive, ſo ſhall you be ſure to purchaſe a good re<g ref="char:EOLhyphen"/>port here, and a happie enjoyment here<g ref="char:EOLhyphen"/>after.</p>
+               <p>But before I conclude, let me intreat you not to miſconſtrue what I have writ, but prove (when you have read) a Dove, without gall, and as I hope you will read without prejudice, ſo I proteſt, I have not writ one Syllable out of malice, or envy, but with a ſerene and calm ſpirit, and I hope what I have writ will not procure me the name of a buſie-bodie, in reſpect
+<pb n="33" facs="tcp:171627:22"/>I have not medled with any mans buſi<g ref="char:EOLhyphen"/>neſſe but my own, for indeed it is a ve<g ref="char:EOLhyphen"/>ry great argument, that he which ſhuf<g ref="char:EOLhyphen"/>fles himſelf into other mens buſineſſe, has little to do of his own. Moreover, as one very well ſayes, a buſie-bodie talkes without <hi>credit,</hi> lives without <hi>love,</hi> dies without <hi>teares,</hi> or <hi>pitie,</hi> onely ſome may ſay 'twas pitie he died no ſooner.</p>
+               <p>And as I have writ nothing to boaſt of, ſo I hope I have writ nothing to bluſh at, except it be the reiteration of your <hi>Invectives,</hi> which indeed will prove foul ſpots in your reputation, ex<g ref="char:EOLhyphen"/>cept you wipe them off by a diſcreet acknowledgement, for a crime timely acknowledged is half expiated, and I hope you will not ſo much abuſe your diſcretion as to juſtifie that, which the World condemnes; give me leave to furniſh you with that advice, which I never had from you, which is, ſpeak
+<pb n="34" facs="tcp:171627:23"/>evil of no man; do good to all: let not the <hi>Serpent</hi> of your envy, devour the innocent <hi>Dove</hi> of your charitie, let your life teach us to die, and if the World revile you without a cauſe, re<g ref="char:EOLhyphen"/>member our Saviour; or if you have denied our Saviour, either by the omiſ<g ref="char:EOLhyphen"/>ſion of thoſe things, which are neceſſa<g ref="char:EOLhyphen"/>rie for ſalvation, or by the Commiſſion of thoſe things that are inducements to deſtruction, do as <hi>Peter</hi> did, goe out and weep bitterly, ſo ſhall your bitter teares be ſweetned with a plentifull remiſſion, and our Saviour (as <hi>Noah</hi> did his Dove) will take you into the Arke of his mercie.</p>
+               <p>
+                  <hi>Sir,</hi> Let me intreat you not to doe to me as the <hi>Jewes</hi> did to our Saviour, laugh me to ſcorne for what I have ſpoken, ſay not, nay think not, that I have writ any thing out of vain glorie, or to argue my ſelf diſcreet above my Neighbours, but rather believe that I
+<pb n="35" facs="tcp:171627:23"/>have told you theſe things out of the humilli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie of my ſpirit, deſiring you to obſerve what I have writ, or to write me better things for my obſerva<g ref="char:EOLhyphen"/>tion.</p>
+               <p>It is reported that the Lion (the King of beaſts) is directed to his Prey by a <hi>Jacka,</hi> which is a very ſmall beaſt, yet ſo great for the Lions be<g ref="char:EOLhyphen"/>nefit, that his lively-hood depends up<g ref="char:EOLhyphen"/>on him; Sir, I ſpeak this, becauſe (knowing my ſelf inferiour to you.) I have preſumed to hunt out theſe ob<g ref="char:EOLhyphen"/>ſervations, and lay them before you, for though the Lion has the better judge<g ref="char:EOLhyphen"/>ment to chuſe his Prey, and the better ſtomack to digeſt it, yet the <hi>Jacka</hi> has the better ſent.</p>
+               <p>Neither deſpiſe me becauſe I am many degrees lower in my judgement then your ſelf; but know, that though you are like
+<pb n="36" facs="tcp:171627:24"/>
+                  <hi>Saul,</hi> higher by the head and ſhoulders then the reſt, yet I will endeavour (like ſhort legg'd <hi>Za<g ref="char:EOLhyphen"/>cheus</hi>) to get up into a Tree but <hi>I</hi> will ſee my <hi>Saviour.</hi>
+               </p>
+               <p>
+                  <hi>Luther</hi> ſayes, that a man lives fourty years before he knowes himſelf to be a Foole, and by that time he ſeeth his folly he dies: <hi>I</hi> am of <hi>Luthers</hi> opi<g ref="char:EOLhyphen"/>nion, and ſhall onely add this, that though we do know our ſelves to be fooles at fourty yeares old, yet we are aſhamed (or at leaſt unwilling) to confeſſe it at three-ſcore.</p>
+               <pb n="37" facs="tcp:171627:24"/>
+               <p>To conclude all, I ſhall deſire Mr. <hi>Culmer,</hi> ſeriouſly to conſider <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ruminate upon What I have expreſſ in my preceding anſwer, and if he conceives <hi>I</hi> have injur'd him by my objections, let him juſtifie himſelf by his anſwer, or prove himſelf guilty by his ſi<g ref="char:EOLhyphen"/>lence.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
